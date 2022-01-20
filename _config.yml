@@ -1,9 +1,10 @@
 title: Ajay Daniel # your name (or website title) here
 logo: "/ProfileRound.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+ <br>
  Software Engineer 1
   <br><br>
   <a href="mailto:ajaydaniel001@gmail.com">ajaydaniel001@gmail.com </a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/ajaydaniel001/">LinkedIn Profile</a>
 theme: jekyll-theme-minimal
