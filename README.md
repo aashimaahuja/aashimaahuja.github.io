@@ -22,7 +22,7 @@ I am a Software Engineer with an experience of over 2 years on C++ and Java.
 #### C++ JAVA JAVASCRIPT QT
 
 Worked in the PDF Editor Software where created the lot of ActionList which will be used to automate the repeated prepress works more easier and faster. 
-Worked in the WorkFlow Management System, where created the prepress tasks which can be used in the workflow.
+Worked in the WorkFlow Management Sytem, where created the prepress tasks which can be used in the workflow.
 Worked in the Structural file creation from the image or pdf of a flat open carton boxes.
 
 
